@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ecf499ce883ffe41b588f37092666ef, type: 3}
+  m_Name: Playe'sBag
+  m_EditorClassIdentifier: 
+  inventoryItems:
+  - quantity: 23
+    item: {fileID: 11400000, guid: 254e9a58d06ce994f80b29a438a510dc, type: 2}
+    itemState: []
+  - quantity: 2
+    item: {fileID: 11400000, guid: 3fcc0ee0ed2b2be4e90f3d6fe9f05a96, type: 2}
+    itemState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: d42510186665233468c419c032210c21, type: 2}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  <Size>k__BackingField: 6
